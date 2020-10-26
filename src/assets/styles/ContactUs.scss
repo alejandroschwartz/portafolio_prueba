@@ -1,0 +1,56 @@
+.contact-form {
+    padding-top: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #393e46;
+}
+
+.text {
+    margin: 8px;
+    padding-left: 12px;
+    height: 36px;
+    width: 65%;
+    min-width: 310px;
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.email {
+    margin: 8px;
+    padding-left: 12px;
+    height: 36px;
+    width: 65%;
+    min-width: 310px;
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.message {
+    margin: 8px;
+    padding-left: 12px;
+    height: 72px;
+    width: 65%;
+    min-width: 310px;
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 4px;
+    font-size: 18px;
+}
+
+.send {
+    margin: 8px;
+    margin-bottom: 32px;
+    padding-left: 12px;
+    height: 36px;
+    width: 45%;
+    min-width: 310px;
+    border: 0;
+    border-radius: 4px;
+    background-color: rgb(60, 155, 60);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+}

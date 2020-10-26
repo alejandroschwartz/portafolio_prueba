@@ -1,6 +1,18 @@
+.div__principal {
+    width: 100vw;
+    margin: 0;
+    margin-bottom: 16px;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
 .principal__proyect {
     border: 4px solid #222831;
     border-radius: 16px;
+    margin: 0;
     padding: 30px;
     background: #ffffff;
     box-sizing: border-box;
@@ -32,7 +44,7 @@
 @media only screen and (max-width: 320px) {
 
     .principal__proyect {
-        width: 306px;
+        width: 92%;
         padding: 10px;
         flex-direction: column;
     }
@@ -41,8 +53,8 @@
         margin: 0px;
     }
 
-    .principal__idioms {
-        width: 280px;
+    .principal__screens {
+        width: 70vw;
     }
 
     .principal__text {
@@ -54,9 +66,10 @@
 @media only screen and (min-width: 321px) and (max-width: 479px) {
 
     .principal__proyect {
-        width: 306px;
+        width: 90%;
         padding: 10px;
         flex-direction: column;
+        align-items: baseline;
     }
 
     .principal__proyect--images {
@@ -64,7 +77,7 @@
     }
 
     .principal__screens {
-        width: 280px;
+        width: 70vw;
     }
 
     .principal__text {
@@ -76,7 +89,7 @@
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 
     .principal__proyect {
-        width: 90vw;
+        width: 85vw;
         padding: 12px;
         flex-direction: column;
     }
@@ -90,8 +103,8 @@
     }
 
     .principal__screens {
-        width: 70vw;
-        max-width: 400px;
+        width: 60vw;
+        max-width: 300px;
     }
 
     .principal__text {
@@ -103,7 +116,7 @@
 @media only screen and (min-width: 768px) and (max-width: 1140px) {
 
     .principal__proyect {
-        width: 760px;
+        width: 95%;
         padding: 20px;
     }
 
