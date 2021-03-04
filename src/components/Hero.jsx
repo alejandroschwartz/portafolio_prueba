@@ -5,7 +5,7 @@ const Hero = () => (
 
     <div className="contenedor">
         <section className="hero">
-            <h1 className="hero__title">Hola, soy <strong>Alejandro Schwartz</strong><br /> Desarrollador <strong>Frontend</strong> y este<br />es mi <strong>portafolio</strong> de proyectos.<br /> </h1>
+            <h1 className="hero__title">Hola, soy <strong>Alejandro Schwartz</strong> <br/> Desarrollador <strong>JavaScript</strong> <br/> y <strong>C#</strong> con <strong>.NET Core</strong>  <br/> Este es mi <strong>portafolio</strong>.<br /> </h1>
         </section>
     </div>
 
