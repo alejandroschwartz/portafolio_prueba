@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alejandroschwartz.github.io/static/css/main.0348886f.chunk.css",
+    "main.js": "/alejandroschwartz.github.io/static/js/main.6eeee5e4.chunk.js",
+    "main.js.map": "/alejandroschwartz.github.io/static/js/main.6eeee5e4.chunk.js.map",
+    "runtime-main.js": "/alejandroschwartz.github.io/static/js/runtime-main.9746953d.js",
+    "runtime-main.js.map": "/alejandroschwartz.github.io/static/js/runtime-main.9746953d.js.map",
+    "static/js/2.297f679a.chunk.js": "/alejandroschwartz.github.io/static/js/2.297f679a.chunk.js",
+    "static/js/2.297f679a.chunk.js.map": "/alejandroschwartz.github.io/static/js/2.297f679a.chunk.js.map",
+    "index.html": "/alejandroschwartz.github.io/index.html",
+    "static/css/main.0348886f.chunk.css.map": "/alejandroschwartz.github.io/static/css/main.0348886f.chunk.css.map",
+    "static/js/2.297f679a.chunk.js.LICENSE.txt": "/alejandroschwartz.github.io/static/js/2.297f679a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9746953d.js",
+    "static/js/2.297f679a.chunk.js",
+    "static/css/main.0348886f.chunk.css",
+    "static/js/main.6eeee5e4.chunk.js"
+  ]
+}
